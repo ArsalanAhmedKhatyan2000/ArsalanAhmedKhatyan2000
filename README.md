@@ -97,7 +97,7 @@ Here are some ideas to get you started:
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg"
             alt="adobe illustrator" width="50" height="50" />
     </a>
-    <a href="" target="_blank">
+    <a href="https://cloudinary.com/" target="_blank">
         <img src="svg/cloudinary.svg"
             alt="cloudinary" width="50" height="50" />
     </a>
