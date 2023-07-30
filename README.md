@@ -118,5 +118,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanAhmedKhatyan2000&layout=donut&hide_border=true&show_icons=true&bg_color=1F222E&theme=dark"
         height="192px" />
 </p>
-
+<div align="center">
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/jaffarabbas/jaffarabbas/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/jaffarabbas/jaffarabbas/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+</div>
+  
 ![snake gif](https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake.gif)
