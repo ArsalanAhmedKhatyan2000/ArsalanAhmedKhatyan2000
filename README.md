@@ -98,7 +98,9 @@ Here are some ideas to get you started:
             alt="adobe illustrator" width="50" height="50" />
     </a>
     <a href="https://cloudinary.com/" target="_blank">
-        <img src="svg/cloudinary.svg"
-            alt="cloudinary" width="50" height="50" />
+        <img src="svg/cloudinary.svg" alt="cloudinary" width="50" height="50" />
+    </a>
+    <a href="https://www.microsoft.com/en/microsoft-365/project/project-management-software" target="_blank">
+        <img src="svg/ms_project.svg" alt="MS Project" width="50" height="50" />
     </a>
 </p>
