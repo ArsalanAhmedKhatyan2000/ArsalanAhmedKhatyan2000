@@ -110,9 +110,13 @@ Here are some ideas to get you started:
 <h1 align="center">My States</h1>
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=ArsalanAhmedKhatyan2000&hide_border=true&bg_color=1F222E&theme=monokai-metallian"
-        height="192px" width="900px" alt=" ArsalanAhmedKhatyan2000" />
+        height="192px" alt=" ArsalanAhmedKhatyan2000" />
+</p>
+<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ArsalanAhmedKhatyan2000&hide_border=true&show_icons=true&bg_color=1F222E&theme=dark"
-        height="192px" width="900px" />
+        height="192px" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanAhmedKhatyan2000&layout=donut&hide_border=true&show_icons=true&bg_color=1F222E&theme=dark"
+        height="192px" />
 </p>
 
 
