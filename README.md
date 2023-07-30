@@ -119,5 +119,5 @@ Here are some ideas to get you started:
         height="192px" />
 </p>
 
-![Snake animation](https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation]
+(https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake.gif)
