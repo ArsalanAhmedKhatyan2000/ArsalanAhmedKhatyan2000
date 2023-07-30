@@ -119,4 +119,9 @@ Here are some ideas to get you started:
         height="192px" />
 </p>
 
+![github contribution grid snake
+animation](https://raw.githubusercontent.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake
+animation](https://raw.githubusercontent.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+
 
