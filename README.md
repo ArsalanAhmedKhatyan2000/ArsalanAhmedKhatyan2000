@@ -118,8 +118,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanAhmedKhatyan2000&layout=donut&hide_border=true&show_icons=true&bg_color=1F222E&theme=dark"
         height="192px" />
 </p>
-<div align="center">
-    ![github contribution grid snake animation](https://raw.githubusercontent.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake-dark.svg)
-</div>
-  
-<!-- ![snake gif](https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake.gif) -->
+
+![Snake animation](https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake.svg)
+
