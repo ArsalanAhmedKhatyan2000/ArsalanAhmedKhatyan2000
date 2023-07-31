@@ -119,7 +119,7 @@ Hi, I'm a passionate software engineer with a growth mindset. Adaptable problem 
         height="192px" alt=" ArsalanAhmedKhatyan2000" />
 </p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ArsalanAhmedKhatyan2000&hide=prs&hide_border=true&show_icons=true&bg_color=1F222E&theme=dark"
+    <img src="https://github-readme-stats.vercel.app/api?username=ArsalanAhmedKhatyan2000&hide=prs&hide_border=true&show_icons=true&include_all_commits=true&bg_color=1F222E&theme=dark"
         height="192px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArsalanAhmedKhatyan2000&layout=donut&hide_border=true&show_icons=true&bg_color=1F222E&theme=dark"
         height="192px" />
