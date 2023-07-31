@@ -1,6 +1,9 @@
 
 <img src="https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/main/banner.gif" />
-
+<!-- 
+<img src="https://profile-counter.glitch.me/ArsalanAhmedKhatyan2000/count.svg" />
+![Visitor Count](https://profile-counter.glitch.me/ArsalanAhmedKhatyan2000/count.svg)
+-->
 <!-- Bio -->
 <h4 align="center">
     <img src="https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/main/wave.gif" alt="Waving hand animated gif" height="30" width="30" />
