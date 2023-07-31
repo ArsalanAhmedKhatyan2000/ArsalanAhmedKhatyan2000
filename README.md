@@ -10,10 +10,17 @@
 Hi, I'm a passionate software engineer with a growth mindset. Adaptable problem solver, delivers high quality solutions on time and within budget. Collaborative team player, eager to drive innovation and solve challenges together. Let's connect and make a difference!
 </h4>
 
-<p align="center">
-    <a href="mailto:kritikarvin2308@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-    <a href="https://www.linkedin.com/in/kritika-p-296739155/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-</p>
+<a href="mailto:kritikarvin2308@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/kritika-p-296739155/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<div>
+    <a href="mailto:arsal.ik2008@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="https://www.linkedin.com/in/arsalan-ahmed-khatyan-560461221/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+</div>
 
 <!-- Languages and Tools -->
 <h1 align="center">Languages and Tools</h1>
