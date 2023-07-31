@@ -127,5 +127,4 @@ Hi, I'm a passionate software engineer with a growth mindset. Adaptable problem 
 
 ![Snake animation](https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![ArsalanAhmedKhatyan2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArsalanAhmedKhatyan2000)](https://github.com/ArsalanAhmedKhatyan2000/github-readme-stats)
 
