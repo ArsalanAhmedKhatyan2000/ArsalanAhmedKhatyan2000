@@ -1,6 +1,5 @@
 
-https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/assets/65245905/ba224cb5-1cad-40f8-9ad7-e3560067f10a
-
+<img src="https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/main/banner.gif" />
 
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
