@@ -2,10 +2,12 @@
 <img src="https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/main/banner.gif" />
 
 <!-- Bio -->
-<h5 align="center">
-Hi, I am a passionate software engineer with a growth mindset. Adaptable problem solver, delivers high quality solutions on time and within budget. Collaborative team player, eager to drive innovation and solve challenges together. Let's connect and make a difference!
-</h5>
+<h4 align="center">
+    <img src="https://github.com/ArsalanAhmedKhatyan2000/ArsalanAhmedKhatyan2000/blob/main/wave.gif" alt="Waving hand animated gif" height="30" width="30" />
+Hi, I'm a passionate software engineer with a growth mindset. Adaptable problem solver, delivers high quality solutions on time and within budget. Collaborative team player, eager to drive innovation and solve challenges together. Let's connect and make a difference!
+</h4>
 
+<!-- Languages and Tools -->
 <h1 align="center">Languages and Tools</h1>
 <p align="center">
     <a href="https://developer.android.com" target="_blank">
