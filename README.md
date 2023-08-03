@@ -11,7 +11,7 @@ Hi, I'm a passionate software engineer with a growth mindset. Adaptable problem 
 </h4>
 
 <div align="center">
-    <a href="mailto:arsal.ik2008@gmail.com" target="_blank">
+    <a href="mailto:arsalanahmedkhatyan2008@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/arsalanahmedkhatyan/" target="_blank">
